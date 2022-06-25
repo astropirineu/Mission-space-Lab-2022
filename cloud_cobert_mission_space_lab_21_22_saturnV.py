@@ -1,6 +1,7 @@
 # Mission Space Lab 2022 - Saturn V
 # Institut Pere Borrell
 # Puigcerdà - Spain 
+# We count the percentage of clouds over the area area swept and photographed from the ISS
 
 import matplotlib.pyplot
 from PIL import Image
